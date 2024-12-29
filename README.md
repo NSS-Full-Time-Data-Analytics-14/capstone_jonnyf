@@ -1,6 +1,3 @@
-# capstone_jonnyf
-
-
 <h1>Fueling Longevity : Proteins Role in Life Expectency </h1>
 
 <h2>Summary</h2>
@@ -9,7 +6,7 @@ This project analyzes protein consumpotion patterns and their correlation with l
 
 
 <h2>Motivation</h2>
-The motivation behind this project stems from a growing personal awarness of proteins 
+The motivation behind this project stems from a growing personal awarness of proteins crucial role in life expectancy. 
 
 <h2>Data Questions</h2>
 
@@ -18,7 +15,6 @@ The motivation behind this project stems from a growing personal awarness of pro
 - What is the connection between the consumption of protein and life expectancy across different regions, and how has this relationship changed over time
 
 - How does income level affect daily protein intake and life expectancy?
-
 
 
 
@@ -35,7 +31,9 @@ https://ourworldindata.org/grapher/daily-per-capita-protein-supply-vs-gdp-per-ca
 <h2>Known Issues and Challenges</h2>
 
 
-Life expectancy is influenced by various factors beyond diet, such as healthcare access, socioeconomic conditions, and lifestyle choices. I'll need to consider these factors during the analysis and interpretation of results.
+Life expectancy is influenced by various factors beyond diet, such as healthcare access, socioeconomic conditions, and lifestyle choices. 
+
+I'll need to consider these factors during the analysis and interpretation of results.
 
 Establishing a direct causal link between specific food consumption and life expectancy is complex.
 
