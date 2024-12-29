@@ -12,7 +12,7 @@ The motivation behind this project stems from a growing personal awarness of pro
 
 - What is the connection between the consumption of protein and life expectancy across different regions, and how has this relationship changed over time?
 
-- What is the connection between the consumption of protein and life expectancy across different regions, and how has this relationship changed over time
+- How does life expectancy vary between countries with higher vegetable protein intake versus those with higher animal protein intake?
 
 - How does income level affect daily protein intake and life expectancy?
 
@@ -38,3 +38,13 @@ I'll need to consider these factors during the analysis and interpretation of re
 Establishing a direct causal link between specific food consumption and life expectancy is complex.
 
  I'll focus on identifying correlations and potential associations rather than making definitive causal claims.
+
+
+
+ <h2> Tools Used </h2>
+    
+    - Python 
+    - Seaborn
+    - Matplotlib
+    
+
